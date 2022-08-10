@@ -1,0 +1,14 @@
+- django filer final check
+- django filer prevent download 
+- django filer copy bug 
+- django filer user role 
+
+- light sail + domain + hosting + db 
+- ec2 + domain + hosting + db
+- git branching 
+- s3 bucket 
+
+- user account 
+- powerpoint drm 
+- presentation 
+- react drm 
